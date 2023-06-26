@@ -1,2 +1,0 @@
-# sharedd
-# yazan
